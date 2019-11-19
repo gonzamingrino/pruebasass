@@ -1,0 +1,5 @@
+.DS_Store
+
+# para que no suba esa carpeta:
+css/*
+
